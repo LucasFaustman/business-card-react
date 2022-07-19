@@ -1,4 +1,4 @@
-# Simple Business Card Created with React
+# Lucas Faustman React Business Card
 
 This project is my first React app bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
