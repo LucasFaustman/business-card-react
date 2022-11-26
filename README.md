@@ -22,7 +22,7 @@ Alternatively, the app can be hosted on http://localhost:3000 via Node and Expre
 
 Then you can run the app via node server/server.js in the root file.
 
-Link to project: https://lucas-faustman-businesscard.herokuapp.com/
+Link to project: lucas-faustman-business-card.netlify.app
 
 <img width="302" alt="Screen Shot 2022-07-16 at 3 32 08 PM" src="https://user-images.githubusercontent.com/99927513/179373798-ccb3152d-086f-4f43-96a8-4c919cf5abe4.png">
 
