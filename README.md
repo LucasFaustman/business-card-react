@@ -49,6 +49,8 @@ I also learned how to host a server using Node and Express with React. It wasn't
 
 Take a look at these other examples that I have in my portfolio:
 
+My Small CRM: https://github.com/LucasFaustman/my-small-crm/tree/main
+
 Local Freelance Makeup Artist: https://github.com/LucasFaustman/local-makeup-artist-website
 
 myPlayer.io: https://github.com/LucasFaustman/nba-Stat-Project
